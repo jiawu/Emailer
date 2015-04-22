@@ -1,0 +1,18 @@
+<html>
+<head></head>
+<body>
+Hi !match1! and !match2!,<br>
+<br>
+Thanks for signing up for LinkLunch! The two of you have been selected to receive up-to $20 cash for lunch at the restaurant of your choice. We matched you up based on your mutual interests in !based_on!. !match1! is a current graduate student in !match1_dept!, while !match2! is a graduate student in !match2_dept!. !additional! <br>
+<br>
+At this point, feel free to: <br>
+<br>
+	- briefly introduce yourselves <br>
+	- make plans to have lunch on a date/at a place of your choice (we encourage you set the date to be within the next two weeks) <br>
+	- identify which one of you will pick up the $20 cash from Tech EG38 on the week of the lunch <br>
+<br>
+If there are any issues with the match, please send nulinklunch@gmail.com an email. If there are no issues, please confirm the date/place with nulinklunch@gmail.com so we know when you will pick up your cash. Remember to review the LinkLunch guidelines here: http://tinyurl.com/linklunchrules <br>
+<br>
+Have a great day! <br>
+NU GSA
+</body></html>

@@ -1,0 +1,14 @@
+import unittest
+
+from authenticate import authenticate
+from Emailer import Emailer
+
+class test_sending(unittest.TestCase):
+    def setUp(self):
+        self.gmail_service = authenticate()
+        self.emailer = Emailer()
+
+    def test_send(self):
+        message, body = self.emailer.get_welcome_msg("blah", "blah", "blah")
+        message = (gmail_service.users().messages().send(userId="me", body=body).execute())
+        self.assertTrue(message)
